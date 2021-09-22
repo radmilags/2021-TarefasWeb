@@ -1,4 +1,4 @@
-# Projeto Exemplo,
+# Projeto Exemplo
 
 ## Log da construção
 1. Meu primeiro web app
